@@ -3,13 +3,13 @@
 
 **Olá, seja Bem vindo!**
 
-### Farmacêutico formado desde 2009, apaixonado pela área de TI! Desde 2022, dedicado exclusivamente a área de Desenvolvimento de software.
+### Farmacêutico formado desde 2009, apaixonado pela área de TI! Desde 2022, dedicado exclusivamente a área de Desenvolvimento de software - Desenv. Web Full Stack + Desenv. Mobile (React Native).
 
 <br>
 
 **Hi, there! Be Welcome!**
 
-### I'm a Pharmacist gradueted since 2009 and passionate about IT! Since 2022, dedicated exclusively to the Software Development area.
+### I'm a Pharmacist gradueted since 2009 and passionate about IT! Since 2022, dedicated exclusively to the Software Development area - Full Stack Web Dev + Mobile Dev (React Native).
 
 <br>
 
@@ -28,10 +28,15 @@
 
 |**Hard Skills desenvolvidas** <br> (_**Hard Skills developed so far**_)|**Hard Skills em desenvolvimento** <br> (_**Hard Skills in development**_)|
 |---------------|------------|
-|![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)|![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)|![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)|![SASS](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=flutter&logoColor=02569B)
-![VSCODE](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)|![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=dart&logoColor=0175C2)||![REACT](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)||![Next.JS](https://img.shields.io/badge/nextjs-000?style=for-the-badge&logo=javascript)||![Node.JS](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=javascript)||![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=javascript)||![REACT NATIVE](https://img.shields.io/badge/reactnative-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)|![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)|
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)|![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)|
+![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)|![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)|
+![VSCODE](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)|![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)|
+|---|![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)|
+|---|![Next.JS](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js)|
+|---|![Node.JS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js)|
+|---|![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql)|
+|---|![REACT NATIVE](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react_native)
 
 <br>
 

@@ -28,7 +28,7 @@
 
 |**Hard Skills desenvolvidas** <br> (_**Hard Skills developed so far**_)|**Hard Skills em desenvolvimento** <br> (_**Hard Skills in development**_)|
 |---------------|------------|
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)|![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)|
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)||
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)|![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)|
 ![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)|![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)|
 ![VSCODE](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)|![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)|

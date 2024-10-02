@@ -28,8 +28,7 @@
 
 |**Hard Skills desenvolvidas** <br> (_**Hard Skills developed so far**_)|**Hard Skills em desenvolvimento** <br> (_**Hard Skills in development**_)|
 |---------------|------------|
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)|![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)|![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)|![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)
-|![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)|![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)|
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)|![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)|![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)|![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)|![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)|![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)|
 ![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)|![Next.JS](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js)|
 ![VSCODE](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)|![Node.JS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js)||---|![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql)||---|![REACT NATIVE](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react_native)|---||---||---|
 <br>

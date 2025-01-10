@@ -33,7 +33,3 @@
 ![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)![VSCODE](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)|![Next.JS](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js)|
 ---|![Node.JS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js)|
 ---|![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql)|
-
-### **Principais Projetos** / **Main Contributions** 
-
-

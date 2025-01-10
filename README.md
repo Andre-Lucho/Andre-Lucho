@@ -33,7 +33,7 @@
 ![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)![VSCODE](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)|![Next.JS](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js)|
 ---|![Node.JS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js)|
 ---|![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql)|
----|![REACT NATIVE](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react_native)|
-## **Principais Projetos** / **Main Contributions** 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-lucho&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/andre-lucho/dio-lab-open-source)
+### **Principais Projetos** / **Main Contributions** 
+
+
